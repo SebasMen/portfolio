@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-100
+}
+
+.btn {
+  @apply bg-blue-700 hover:bg-blue-500 text-white font-bold rounded border-blue-500 py-2 px-4 border-b-4;
+}
+
+.btn-2 {
+  background-color: #24696B;
+  @apply bg-blue-700 hover:bg-blue-500 text-white font-bold rounded py-2 px-4 cursor-pointer
+}
+
+.repos-list {
+  columns: 3;
+  -moz-columns: 3;
+  column-rule: 1px solid;
+  @apply p-4;
+}
+
+.repos-list li {
+  break-inside: avoid-column;
+}
+
+.vertical-text {
+  text-orientation: upright;
+  writing-mode: vertical-rl;
+  @apply bg-blue-200 text-blue-700 text-xs inline-block
+}

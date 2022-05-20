@@ -1,0 +1,12 @@
+{
+  "slug": "otros",
+  "title": "Otros logros academicos",
+  "description": "Talleres, diplomados y conferencias en las que he participado",
+  "items": [
+    {
+      "name": "Connect4",
+      "degree": "Ingles A1",
+      "score": "4.5"
+    }    
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "portafolio",
   "private": true,
   "description": "A simplified bare-bones starter for Gatsby",
   "version": "0.1.0",
@@ -15,11 +15,15 @@
   },
   "dependencies": {
     "gatsby": "^4.14.1",
+    "gatsby-source-filesystem": "^4.14.0",
+    "gatsby-transformer-json": "^4.14.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
   "devDependencies": {
-    "prettier": "^2.6.2"
+    "gatsby-plugin-postcss": "^5.14.0",
+    "prettier": "^2.6.2",
+    "tailwindcss": "^3.0.24"
   },
   "repository": {
     "type": "git",

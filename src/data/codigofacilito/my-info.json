@@ -1,0 +1,52 @@
+{
+  "data": {
+    "email": "meneses0828@gmail.com",
+    "username": "poncho29",
+    "certificates": [
+      {
+        "score": 10,
+        "code": "c7348-h8748-298h2-2frf4",
+        "title": "Curso Profesional de React"
+      },
+      {
+        "score":9,
+        "code": "c4232-g8gh7-293cc-2frf4",
+        "title": "Curso Profesional de Angular"
+      },
+      {
+        "score":10,
+        "code": "c4232-g8gh7-2v2cc-1ghf4",
+        "title": "Curso de Next"
+      }
+    ],
+    "articles": [],
+    "courses": [
+      {
+        "title": "Curso de introducción y fundamentos de React",
+        "progress": "2.0",
+        "url": "http://codigofacilito.com/courses/react"
+      },
+      {
+        "title": "Curso Porfesional de JavaScript",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/javascript-profesional"
+      },
+      {
+        "title": "Curso de Fundamentos de React",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/react-intro-gratis"
+      }
+    ],
+    "finished_courses": [
+      {
+        "title": "Curso Profesional de JavaScript",
+        "url": "http://codigofacilito.com/courses/javascript-profesional"
+      },
+      {
+        "title": "Curso de Fundamentos de React",
+        "url": "http://codigofacilito.com/courses/react-intro-gratis"
+      }
+    ]
+  },
+  "errors": []
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "presencial",
+  "title": "Formación académica",
+  "description": "Formación académica, grados de estudio e instituciones a las que asisti",
+  "items": [
+    {
+      "name": "Corporación Universitaria Remington",
+      "degree": "Ingeniero de Sistemas",
+      "score": "4.3"
+    }, 
+    {
+      "name": "Bogota Institute of Technology",
+      "degree": "Bootcamp en Desarrollo Web FullStack",
+      "score": "5.0"
+    }
+  ]
+}

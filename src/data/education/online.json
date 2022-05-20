@@ -1,0 +1,19 @@
+{
+  "slug": "online",
+  "title": "Formación académica en linea",
+  "description": "Formación académica en plataformas de educacion online",
+  "items": [
+    {
+      "name": "Fundamentos de Angular",
+      "url": "https://platzi.com/cursos/angular/"
+    }, 
+    {
+      "name": "Curso de Angular: Componentes y Servicios",
+      "url": "https://platzi.com/cursos/angular-componentes/"
+    },
+    {
+      "name": "Curso de Desarrollo de Aplicaciones Web con Gatsby JS",
+      "url": "https://platzi.com/cursos/gatsby/"
+    }
+  ]
+}
